@@ -2,12 +2,11 @@
 
 C programe for print pattern
 	
-  INPUT = 5
+Input = 5
 	
-  Output
-  
-  *
-	**
-	***
-	****
-	*****
+Output
+*
+**
+***
+****
+*****
